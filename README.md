@@ -1,7 +1,7 @@
 # Welcome!
 Show your spotify profile, your currently playing song and last song
 
-• Example link: myspotifyprofile.ga/yourname
+• Example link: myspoty.ga/yourname
 
 # Screenshots
 
