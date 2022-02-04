@@ -14,7 +14,7 @@ Show your spotify profile, your currently playing song and last song
 # How to get a Spotify profile page
 
 - Send us an email filling the template:<br>
-• <a href="mailto:myspotifyprofile@xfuryus.ga?subject=Requesting%20spotify%20page&body=SPOTIFY%20PROFILE%20USERNAME%3A%20%3Cusername%3E%0D%0ASPOTIFY%20CLIENT%20ID%3A%20%3Cid%3E%0D%0ASPOTIFY%20CLIENT%20SECRET%3A%20%3Cclientsecret%3E%0D%0ASPOTIFY%20REFRESH%20TOKEN%3A%20%3Crefreshtoken%3E%0D%0ASPOTIFY%20FAVORITE%20PLAYLIST%3A%20%3Clink%3E">Request page now</a>
+• <a href="mailto:myspotifyprofile@xfuryusstudio.ga?subject=Requesting%20spotify%20page&body=SPOTIFY%20PROFILE%20USERNAME%3A%20%3Cusername%3E%0D%0ASPOTIFY%20CLIENT%20ID%3A%20%3Cid%3E%0D%0ASPOTIFY%20CLIENT%20SECRET%3A%20%3Cclientsecret%3E%0D%0ASPOTIFY%20REFRESH%20TOKEN%3A%20%3Crefreshtoken%3E%0D%0ASPOTIFY%20FAVORITE%20PLAYLIST%3A%20%3Clink%3E">Request page now</a>
 <br>• You will receive an email when the page has been deployed.
 
 - Example template
